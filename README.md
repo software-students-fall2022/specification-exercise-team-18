@@ -7,7 +7,7 @@ A little exercise to get started with the specification phase of the software de
 
 [Robert Chen](https://github.com/RobertChenYF)
 [Sarah Al-Towaity](https://github.com/sarah-altowaity1)
-
+[Brian Lee](https://github.com/shl622)
 
 ## Stakeholders
 
