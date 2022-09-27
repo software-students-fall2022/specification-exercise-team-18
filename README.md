@@ -23,5 +23,5 @@ See instructions. Delete this line and place a list of your User Stories here.
 
 ## Activity Diagrams
 
-![verify activity disgram](/Activity%20Diagram/User%20registration%20UML%20diagram.png)
+![verify activity disgram](/Activity%20Diagram/User%20verifiy%20activity%20diagram.png)
 As a user, I want to get verified using my college email, so that I can start buying on the platform. 
