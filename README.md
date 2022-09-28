@@ -27,4 +27,4 @@ See instructions. Delete this line and place a list of your User Stories here.
 As a user, I want to get verified using my college email, so that I can start buying on the platform. 
 
 ![buy item diagram](Activity%20Diagram/User%20buy%20activity%20diagram.jpeg)
-"As a buyer, I would like to chat with the seller, so that they can send me a request to buy after discussing details of the purchase (arranging meetups, price negotiation,etc)."
+As a buyer, I would like to chat with the seller, so that they can send me a request to buy after discussing details of the purchase (arranging meetups, price negotiation,etc).
