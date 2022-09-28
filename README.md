@@ -19,7 +19,12 @@ A mobile application where college students can buy or sell anything from their 
 
 ## User Requirements
 
-See instructions. Delete this line and place a list of your User Stories here.
+<span>1.</span> As a college student, I want to view the listed items for sale on the home page, so that I can see if there is an item I would like to purchase. <br/>
+<span>2.</span> As a user, I want to get verified using my college email, so that I can start buying on the platform.<br/>
+<span>3.</span> As a user, I want to get verified using my college email, so that I can start selling on the platform.<br/>
+<span>4.</span> As a buyer, I would like to see a seller’s reviews, so I can verify the seller’s credibility.<br/>
+<span>5.</span> As a seller, I want to choose my own price, so that I can sell my item at a desired price.<br/>
+<span>6.</span> As a seller, I want to select my location, so that I attract the buyers closest to me.<br/>
 
 ## Activity Diagrams
 
