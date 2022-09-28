@@ -15,7 +15,7 @@ See instructions. Delete this line and replace with the name(s) of the stakehold
 
 ## Product Vision Statement
 
-See instructions. Delete this line and place your Product Vision Statement here.
+A mobile application where college students can buy or sell anything from their fellow peers locally without dealing with packing or shipping concerns.
 
 ## User Requirements
 
