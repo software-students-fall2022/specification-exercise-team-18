@@ -20,7 +20,7 @@ A little exercise to get started with the specification phase of the software de
 <span>5. </span> Perform the aforementioned transactions with someone who is trustworthy, such as a fellow college student. <br/>
 <span>6. </span> Perform the aforementioned transactions locally with as little effort/money spent on transportation, packing, and/or shipping. <br/>
 
-**Problems/Frusturations**
+**Problems/Frusturations**\
 <span>1. </span> Cannot sustainability/economically get rid of used materials/college supplies that are no longer needed. <br/>
 <span>2. </span> Alternative platforms and virtual marketplaces do not offer ways to authenticate the user at the other end of a transaction.<br/>
 <span>3. </span> Alternative platforms rarely guarantee that sellers and buyers will be in the same location.<br/>
