@@ -11,7 +11,8 @@ A little exercise to get started with the specification phase of the software de
 
 ## Stakeholders
 
-See instructions. Delete this line and replace with the name(s) of the stakeholder(s) you interviewed and lists showing their goals/needs, and problems/frustrations.
+### Nada, Student at University of Toronto
+
 
 ## Product Vision Statement
 
@@ -26,13 +27,13 @@ A mobile application where college students can buy or sell anything from their 
 <span>5.</span> As a seller, I want to choose my own price, so that I can sell my item at a desired price.<br/>
 <span>6.</span> As a seller, I want to select my location, so that I attract the buyers closest to me.<br/>
 <span>7.</span> As a buyer, I want to chat with the seller, so that I can possibly bargain on the price. <br/>
-<span>8.</span>As a buyer, I would like to search for a specific product, so that I can compare prices and/or sellers and choose the best bargain for me.<br/>
-<span>9.</span>As a seller, I want to chat with the buyer, so that I can arrange a meeting place to trade the item in-person.<br/>
-<span>10.</span>As a buyer, I want to add my payment information so that I have the buying power for the desired item.<br/>
-<span>11.</span>As a seller, I want to link my bank account to my platform profile so that I can transfer funds after a successful transaction.<br/>
-<span>12.</span>As a buyer, I would like to include items to my wish list, so that I can try to get them later on.<br/>
-<span>13.</span>As a buyer, I would like to chat with the seller, so that they can send me a request to buy after discussing details of the purchase (arranging meetups, price negotiation,etc).<br/>
-<span>14.</span>As a seller, I would like to be able to send the buyer a request to buy after making arrangements for a meetup, so that they can purchase my product.<br/>
+<span>8.</span> As a buyer, I would like to search for a specific product, so that I can compare prices and/or sellers and choose the best bargain for me.<br/>
+<span>9.</span> As a seller, I want to chat with the buyer, so that I can arrange a meeting place to trade the item in-person.<br/>
+<span>10.</span> As a buyer, I want to add my payment information so that I have the buying power for the desired item.<br/>
+<span>11.</span> As a seller, I want to link my bank account to my platform profile so that I can transfer funds after a successful transaction.<br/>
+<span>12.</span> As a buyer, I would like to include items to my wish list, so that I can try to get them later on.<br/>
+<span>13.</span> As a buyer, I would like to chat with the seller, so that they can send me a request to buy after discussing details of the purchase (arranging meetups, price negotiation,etc).<br/>
+<span>14.</span> As a seller, I would like to be able to send the buyer a request to buy after making arrangements for a meetup, so that they can purchase my product.<br/>
 
 ## Activity Diagrams
 
