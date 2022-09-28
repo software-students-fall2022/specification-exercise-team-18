@@ -18,7 +18,7 @@ A little exercise to get started with the specification phase of the software de
 <span>3. </span> Monetize off of one’s used items that are no longer needed. <br/>
 <span>4. </span> Monetize off of study materials that are no longer needed recouping the time and energy spent in procuring or creating them. <br/>
 <span>5. </span> Perform the aforementioned transactions with someone who is trustworthy, such as a fellow college student. <br/>
-<span>6. </span> Perform the aforementioned transactions locally with as little effort/money spent on transportation, packing, and/or shipping. <br/>\
+<span>6. </span> Perform the aforementioned transactions locally with as little effort/money spent on transportation, packing, and/or shipping. <br/>
 
 **Problems/Frusturations**\
 
