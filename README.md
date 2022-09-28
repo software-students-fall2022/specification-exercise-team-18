@@ -12,7 +12,21 @@ A little exercise to get started with the specification phase of the software de
 ## Stakeholders
 
 ### Nada, Student at University of Toronto
+**Goals/Needs**\
+<span>1. </span> Find items needed for college life, such as kitchen supplies and cleaning supplies, for a much cheaper price than retail. <br/>
+<span>2. </span> Find notes tailored to a specific course to use as study materials. <br/>
+<span>3. </span> Monetize off of one’s used items that are no longer needed. <br/>
+<span>4. </span> Monetize off of study materials that are no longer needed recouping the time and energy spent in procuring or creating them. <br/>
+<span>5. </span> Perform the aforementioned transactions with someone who is trustworthy, such as a fellow college student. <br/>
+<span>6. </span> Perform the aforementioned transactions locally with as little effort/money spent on transportation, packing, and/or shipping. <br/>\
 
+**Problems/Frusturations**\
+
+<span>1. </span> Cannot sustainability/economically get rid of used materials/college supplies that are no longer needed. <br/>
+<span>2. </span> Alternative platforms and virtual marketplaces do not offer ways to authenticate the user at the other end of a transaction.<br/>
+<span>3. </span> Alternative platforms rarely guarantee that sellers and buyers will be in the same location.<br/>
+<span>4. </span> Alternative platforms do not tend to have a user base specifically comprised of college students that share similar needs and wants.<br/>
+<span>5. </span> Cannot recoup financially on materials that are used but no longer use.<br/>
 
 ## Product Vision Statement
 
