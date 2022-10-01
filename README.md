@@ -11,21 +11,25 @@ A little exercise to get started with the specification phase of the software de
 
 ## Stakeholders
 
-### Nada, Student at University of Toronto
+### Ashton, student at NYU Stern
 **Goals/Needs**\
-<span>1. </span> Find items needed for college life, such as kitchen supplies and cleaning supplies, for a much cheaper price than retail. <br/>
-<span>2. </span> Find notes tailored to a specific course to use as study materials. <br/>
-<span>3. </span> Monetize off of one’s used items that are no longer needed. <br/>
-<span>4. </span> Monetize off of study materials that are no longer needed recouping the time and energy spent in procuring or creating them. <br/>
-<span>5. </span> Perform the aforementioned transactions with someone who is trustworthy, such as a fellow college student. <br/>
-<span>6. </span> Perform the aforementioned transactions locally with as little effort/money spent on transportation, packing, and/or shipping. <br/>
+<span>1. </span> Reducing counterparty risk for both ends of the P2P trade by having users verify themselves in the system as enrolled college students.<br/>
+<span>2. </span> Establishing a payment transfer system whereby the funds would go from the buyer to an Escrow account of G-SIB[^1] to the seller once this verification is completed.<br/>
+<span>3. </span> Removing the overhead imposed by shipping and delivery logistics by having both the buying and the selling party to meet in-person to complete the trade.<br/>
+<span>4. </span> Ensuring that the needs of the seller and the buyer parties remain aligned, especially given that the userbase is limited to the set of people who are verified college enrollees and even further limited to subsets of students from the same institution. <br/>
+<span>5. </span> Target institutions with high number of students as these would are more likely to provide the platform with an extensive userbase that can interact with each other, especially since students are only allowed to trade with those who are enrolled to the same institution.<br/>
+
 
 **Problems/Frusturations**\
-<span>1. </span> Cannot sustainability/economically get rid of used materials/college supplies that are no longer needed. <br/>
-<span>2. </span> Alternative platforms and virtual marketplaces do not offer ways to authenticate the user at the other end of a transaction.<br/>
-<span>3. </span> Alternative platforms rarely guarantee that sellers and buyers will be in the same location.<br/>
-<span>4. </span> Alternative platforms do not tend to have a user base specifically comprised of college students that share similar needs and wants.<br/>
-<span>5. </span> Cannot recoup financially on materials that are used but no longer use.<br/>
+<span>1. </span> Most current virtual marketplace platforms suffer from counterparty risk[^2]. For example, Facebook marketplace comes short on this virtue as the user has to rely on reputation or instincts to evaluate whether the opposite end of the trade is trustworthy. As someone who wants to build a marketplace platform, this risk stands as a problem that needs to be handled.<br/>
+<span>2. </span> Logistics related to shipping and packing as well as litigations related to shipments are expensive and require a ton of oversight. <br/>
+<span>3. </span> Many existing used item markets deal with a broad range of listings from a broad range of users, leading to a wide range of items but requires time and effort to tailor them to the needs of a specific userbase.
+<br/>
+<span>4. </span> For any such platform to succeed, a challenge to be overcome is securing a large enough userbase to appreciate the value of the platform, as per the networking effect[^3].<br/>
+
+[^1] : global systemically important banks
+[^2] : the probability that the other party in an investment, credit, or trading transaction may not fulfill its part of the deal and may default on the contractual obligations.
+[^3] : As the userbase of an app increases, the app’s value increases exponentially.
 
 ## Product Vision Statement
 
