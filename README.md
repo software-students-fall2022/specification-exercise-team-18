@@ -9,6 +9,40 @@ A little exercise to get started with the specification phase of the software de
 [Sarah Al-Towaity](https://github.com/sarah-altowaity1)\
 [Brian Lee](https://github.com/shl622)
 
+## Ideation
+<details>
+<summary>Pharmacy chat app</summary>
+<br>
+Potential Stakeholders: retail pharmaceutical company, retail pharmacists <br/>
+Potential End-user: retail pharmacy customers, pharmacists<br/>
+Problem attempting to solve: The demand of customers to be connected to local pharmacies via phone is too high for the number of resources available at a pharmacy. The program aims to solve this problem by allowing customers and pharmacists to communicate via chat, whether it is live (on-demand) or a mail-like system where the customer posts questions and checks in later for an answer.
+</details>
+
+<details>
+<summary>NYC Street Parking app </summary>
+<br>
+Potential Stakeholders: entreprenuers, NYC government <br/>
+Potential End-user: NYC drivers <br/>
+Problem attempting to solve: The hassle of confirming the parking restriction per street as sometimes the signs are tilted or too far to confirm. If one can access these restrictions via a mobile app that provides location service, it would help drivers in NYC to validate nearest parking spots.
+</details>
+
+<details>
+<summary>Renting Platform app</summary>
+<br>
+Potential Stakeholders: entreprenuers, companies who are willing to rent (instead of sell) their products <br/>
+Potential End-users: users with items they own that are in good condition but barely use, and users who are in need for such items for a temporary time period <br/>
+Problem attempting to solve: Match those who are in need of an item for  a limited period of time with those who own these items and want to rent it out. 
+</details>
+
+<details>
+<summary>Buy&Sell Used Items app</summary>
+<br>
+Potential Stakeholders: entreprenuers, institutions who approve of model </br>
+Potential End-Users: college students </br>
+Problem attempting to solve: hassle of shipping and packaging in existing models, the risk in having to deal with a stranger(non-verified) online, filtering and targeting items in specific needs for students 
+</details>
+
+
 ## Stakeholders
 
 ### Ashton, student at NYU Stern
