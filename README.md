@@ -93,6 +93,9 @@ As a user, I want to get verified using my college email, so that I can start bu
 ![buy item diagram](Activity%20Diagram/User%20buy%20activity%20diagram.jpeg)
 As a buyer, I would like to chat with the seller, so that they can send me a request to buy after discussing details of the purchase (arranging meetups, price negotiation,etc).
 
+## Wireframes
+View all wireframes [here.](Wireframe)
+
 ## Clickable Prototype
 
 View clickable prototype [here.](https://www.figma.com/proto/Jn5YKRq0i4uEjWCtRfaL7L/Wireframe-ver1?node-id=3%3A11&scaling=scale-down&page-id=0%3A1&starting-point-node-id=3%3A11&show-proto-sidebar=1)
